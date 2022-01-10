@@ -1,6 +1,6 @@
-![spirit bot](https://i.imgur.com/aO8uCtQ.jpg?size=1500)
+![manavalan bot](https://i.imgur.com/UCCrYk1.jpeg?size=1500)
 
-## [![spirit-bot](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=Welcome+to+spirit+bot+WA+Bot+Repo;Created+by+spirit+ser;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![Manavalan](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=Welcome+to+manavalan+bot+WA+Bot+Repo;Created+by+manavalan+ser;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
 
 ## Setup
@@ -10,7 +10,7 @@
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/SPlRlT-YT/spirit-bot.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/shahanadks/Manavalan.git)
      </div>
 <br>
 <br >
@@ -26,8 +26,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/SPlRlT-YT/spirit-bot
-$ cd spirit-bot
+$ git clone https://github.com/shahanadks/Manavalan
+$ cd Manavalan
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -36,8 +36,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/SPlRlT-YT/spirit-bot
-$ cd spirit-bot
+$ git clone https://github.com/shahanadks/Manavalan
+$ cd Manavalan
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -50,15 +50,15 @@ $ node bot.js
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, spirit-bot executives do not accept responsibility.
-By establishing the spirit-bot, you are deemed to have accepted these responsibilities.
+Absolutely, Manavalan executives do not accept responsibility.
+By establishing the Manavalan, you are deemed to have accepted these responsibilities.
 ```
 
 ## Developers
   <div align="center">
     
- [![SPlRlT-YT](https://github.com/SPlRlT-YT.png?size=100)](https://github.com/SPlRlT-YT)  
-[](https://github.com/spirit-bot)[spirit ser](https://github.com/SPlRlT-YT) 
+ [![shahanadks](https://github.com/shahanadks.png?size=100)](https://github.com/shahanadks)  
+[](https://github.com/Manavalan)[manavalan ser](https://github.com/shahanadks) 
   </div>
 
 
